@@ -24,10 +24,10 @@ cd ticket
 
 2. Install Dependencies
 Install the project dependencies by running:
-
 bash
 Copy code
-npm install
+npm install 
+
 3. Create a .env File
 In the root directory of your project, create a .env file and add the following content:
 
