@@ -20,8 +20,9 @@ Setup Instructions
 bash
 Copy code
 git clone <repository_url>
-cd ticket
-3. Install Dependencies
+cd ticket 
+
+2. Install Dependencies
 Install the project dependencies by running:
 
 bash
@@ -37,6 +38,7 @@ PORT=5000
 Replace <Your MongoDB URI> with your MongoDB connection string.
 For local MongoDB, it might be something like mongodb://localhost:27017/ticket-management.
 For MongoDB Atlas, it will be a URL provided by Atlas.
+
 4. Run the Application
 You can run the app using:
 
